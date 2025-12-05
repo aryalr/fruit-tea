@@ -104,4 +104,4 @@ Lihat [SETUP.md](./SETUP.md) untuk panduan lengkap setup dan konfigurasi.
 
 ## 📄 Lisensi
 
-Private - FruitTea © 2024
+Public - aryalr @2025
